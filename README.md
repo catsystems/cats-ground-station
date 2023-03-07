@@ -4,6 +4,8 @@
 
 *Always land on your paws*
 
+## NOTE: This repo is archived and merged into [catsystems/cats-embedded](https://github.com/catsystems/cats-embedded).
+
 ## Contribution
 Contributions are welcome and encouraged. You can contribute in many ways:
 
